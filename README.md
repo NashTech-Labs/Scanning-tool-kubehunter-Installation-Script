@@ -8,7 +8,7 @@ Kube Hunter is a penetration testing tool (to give the full admin access or work
 
 # Steps for Execution 
 1. chmod +x scanning_script.sh
-2. ./scanning_script.sh
+2. ./kube-hunter.sh
 
 
 For more details refer this blog : https://blog.knoldus.com/how-to-do-vulnerability-scanning-in-k8s-with-kube-hunter/
